@@ -1,6 +1,6 @@
 // Learning C++ 
 // Exercise 02_03
-// Using Variables, by Eduardo Corpeño 
+// Using Variables, by Michael Morbius 
 
 #include <iostream>
 
